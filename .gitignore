@@ -1,0 +1,23 @@
+# eclipse
+/bin/
+/.settings/
+/.metadata/
+
+# gradle
+/.gradle/
+/gradle/
+/build/
+/gradlew
+/gradlew.bat
+
+# minecraft
+/run/
+
+# backup files
+*.bak
+*.orig
+*.swp
+*~
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
